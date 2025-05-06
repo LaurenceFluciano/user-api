@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+dist/
+
+# Ambientes
+.env
+.env.local
+.env.*.local
+
+# commands
+commands
+
+# IDEs
+.vscode/
